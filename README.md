@@ -1,3 +1,3 @@
-https://Alexname04.github.io/rsschool-cv/cv
+https://github.com/Alexname04/rsschool-cv/blob/gh-pages/cv.md
 
 
