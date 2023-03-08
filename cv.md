@@ -20,5 +20,5 @@ new and useful at a fast pace</p>
 **My stady**
 <p>Heigh school and Uneverseti</p>
 
-**Contact info**
+**Contact info** </br>
 [aleksname04@gmail.com](aleksname04@gmail.com)
